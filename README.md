@@ -42,9 +42,9 @@ Photography(LeicaQ)
 - beautifulsoup4
 
 # Education
-- 2015~2018:
+- 2015 ~ 2018:
 Kanagawa Prefectural Kawasaki High School of Science and Technology
-- 2018~:
+- 2018 ~ 2022:
 Tokyo Denki University Engineering Department
 
 # Work
@@ -68,6 +68,15 @@ Tokyo Denki University Engineering Department
 - Joined a part-time job at NN Life Insurance Company, Ltd.
 - Resigned IT hero Co.,Ltd CEO and representative director.
 - Leaved part-time job at Research Institute for Computational Science Co, Ltd.
+
+## 2020
+- Joined a intern at Money Forward  Co., Ltd.
+- Joined a intern at Rakuten Group, Inc.
+- Joined a intern at BrainPad Inc.
+- Joined a intern at DMM.com LLC.
+- Joined a intern at mixi, Inc.
+
+## 2021
 
 # Activity
 ## 2015
