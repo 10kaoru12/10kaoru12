@@ -9,10 +9,9 @@ Tokyo
 Tokyo Denki University
 - **Department**:
 Engineering
-- **Intern**:
-NN Life Insurance Company, Ltd.
 - **Hobby**:
 Photography(LeicaQ)
+Ramen JIRO
 
 # Programming
 ## Programming Language
@@ -77,6 +76,10 @@ Tokyo Denki University Engineering Department
 - Joined a intern at mixi, Inc.
 
 ## 2021
+## 2022
+- Joined a full-time job at NN Life Insurance Company, Ltd.
+- Leaved a full-time job at NN Life Insurance Company, Ltd.
+- Joined a full-time job at Amazon Web Services, Inc.
 
 # Activity
 ## 2015
@@ -102,3 +105,9 @@ Tokyo Denki University Engineering Department
 
 ## 2020
 - Honor NN Life Japan Great Engineer Award.
+
+## 2021
+- Gain a Registered Information Security Specialist.
+
+## 2022
+- Honor Tokyo Denki University engineering Dean's Award.
